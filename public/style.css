@@ -1,0 +1,16 @@
+body{
+  display:flex;
+  margin:0;
+  padding:0;
+  backgrpund:blue;
+}
+a{
+  list-style:none;
+}
+ul{
+  list-style:none;
+}
+ul:hover{
+  padding:20px;
+  margin: auto;
+}
